@@ -4,6 +4,7 @@ Created on 19/05/2018
 @author: ernesto
 '''
 # XXX: https://www.hackerrank.com/contests/learna/challenges/quicksort3/problem
+
 def swap(a,i,j):
     a[i],a[j]=a[j],a[i]
 
